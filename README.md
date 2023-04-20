@@ -18,10 +18,13 @@
 
 *   Factors affecting Sleep
     -   Age - There was no coorelation found between sleep efficiency and age. The r-value is 0.12 which points to almost non-existent coorelation.
-    -   Gender - 
+    -   Gender
+        - 41-50 age group has lowest sleep duration but highest efficiency for females
+        - After age 50, women have higher sleep duration but lower sleep efficiency
     -   Alocohol Consumption
     -   Smoking
 
 
 *   Possible Bias
+
 
