@@ -13,9 +13,9 @@
     - % Smokers - 34.3
     - Average Sleep Duration - 7.45 hours
 
-    ![plot](output/gender_overview.png)
-    ![plot](output/age_overview.png)
-    ![plot](output/smoking_overview.png)
+    ![plot](Output/gender_overview.png)
+    ![plot](Output/age_overview.png)
+    ![plot](Output/smoking_overview.png)
 
 
 *   Deep and Light Sleep v/s Sleep Efficiency
